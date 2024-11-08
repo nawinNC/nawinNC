@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nawin Chaisena
 ======================================================================================================================================
 
-*  I’m currently learning : python, typescript, javascript, nodejs, HTML5, dart
+*  I’m currently learning : python, typescript, javascript, nodejs, HTML5, dart, vue.js
 
 ### Contact me :
 
